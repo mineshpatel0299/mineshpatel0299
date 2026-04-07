@@ -13,7 +13,7 @@
 
 <!-- ANIMATED HEADER SVG -->
 <a href="https://minesh-dev.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=MINESH%20H%20PATEL&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%20%E2%94%82%20%20Builder%20%20%E2%94%82%20%20Creator&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=MINESH%20H%20PATEL&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%20%&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 </a>
 
 <br>
