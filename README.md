@@ -43,10 +43,11 @@
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> &nbsp;About Me
-
 ```yaml
 name: Minesh H Patel
 role: Full Stack Developer
@@ -66,15 +67,13 @@ philosophy: >
    to be deployed."
 ```
 
-<br clear="both">
-
-<!-- ANIMATED LINE -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
+</td>
+<td width="40%" valign="top">
+<br><br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
+</td>
+</tr>
+</table>
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
 <div align="center">
