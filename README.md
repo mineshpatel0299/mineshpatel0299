@@ -334,7 +334,7 @@ philosophy: >
 <img src="https://img.shields.io/badge/🌐_Portfolio-minesh--dev.vercel.app-0d1117?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:minesh@gmail.com" target="_blank">
+<a href="mailto:mineshpatel029@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/📧_Email-Contact_Me-0d1117?style=for-the-badge" alt="Email"/>
 </a>
 </p>
