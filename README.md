@@ -253,21 +253,21 @@ philosophy: >
 
 <!-- STATS ROW 1 -->
 <p>
-  <a href="https://github.com/minesh-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minesh-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minesh-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/mineshpatel0299">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mineshpatel0299&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineshpatel0299&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <!-- STREAK STATS -->
-<a href="https://github.com/minesh-dev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minesh-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak"/>
+<a href="https://github.com/mineshpatel0299">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mineshpatel0299&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak"/>
 </a>
 
 <br><br>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/minesh-dev">
+<a href="https://github.com/mineshpatel0299">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minesh-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
 
