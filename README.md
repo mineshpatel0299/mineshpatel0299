@@ -12,14 +12,14 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG -->
-<a href="https://mineshpatel0299.vercel.app/">
+<a href="https://minesh-dev.vercel.app/">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=MINESH%20H%20PATEL&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%20%&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 </a>
 
 <br>
 
 <!-- ANIMATED TYPING SVG -->
-<a href="https://mineshpatel0299.vercel.app/">
+<a href="https://minesh-dev.vercel.app/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%94%A5+Turning+Ideas+Into+Production+Code;%E2%9A%A1+From+Pixels+to+Databases+%E2%80%94+I+Build+It+All;%F0%9F%8C%8D+Crafting+Digital+Experiences+That+Matter" alt="Typing SVG" />
 </a>
 
@@ -28,7 +28,7 @@
 <!-- SOCIAL BADGES WITH STYLE -->
 <div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&color=0d1117)](https://mineshpatel0299.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&color=0d1117)](https://minesh-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minesh-h-patel-70659515a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mineshpatel029@gmail.com)
 
@@ -74,6 +74,7 @@ philosophy: >
 </td>
 </tr>
 </table>
+
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
 <div align="center">
@@ -158,11 +159,6 @@ philosophy: >
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
 <br>
-
-<!-- PROJECT 1: VITAL HEALTHCARE LAB -->
-<a href="https://vitalhealthcarelab.com">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
-</a>
 
 <table>
 <tr>
@@ -250,22 +246,29 @@ philosophy: >
 
 <br>
 
-<!-- STATS ROW 1 -->
+<!-- STATS ROW — using github-profile-summary-cards (reliable alternative) -->
 <p>
-  <a href="https://github.com/mineshpatel0299">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mineshpatel0299&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mineshpatel0299&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mineshpatel0299&theme=github_dark" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mineshpatel0299&theme=github_dark" alt="Top Languages by Repo"/>
 </p>
 
-<!-- STREAK STATS -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mineshpatel0299&theme=github_dark" alt="Top Languages by Commit"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mineshpatel0299&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+<br>
+
+<!-- STREAK STATS — using working alternative URL -->
 <a href="https://github.com/mineshpatel0299">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mineshpatel0299&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mineshpatel0299&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak"/>
 </a>
 
 <br><br>
 
-<!-- ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH — fixed username -->
 <a href="https://github.com/mineshpatel0299">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mineshpatel0299&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </a>
@@ -304,7 +307,7 @@ philosophy: >
 
 <br>
 
-<!-- ═══════════════════════════ SPOTIFY / QUOTE ═══════════════════════════ -->
+<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 
 <div align="center">
 
@@ -329,7 +332,7 @@ philosophy: >
 <br>
 
 <p>
-<a href="https://mineshpatel0299.vercel.app/" target="_blank">
+<a href="https://minesh-dev.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Portfolio-minesh--dev.vercel.app-0d1117?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -340,7 +343,7 @@ philosophy: >
 
 <br>
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE VIEWS — fixed username -->
 <img src="https://komarev.com/ghpvc/?username=mineshpatel0299&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br><br>
