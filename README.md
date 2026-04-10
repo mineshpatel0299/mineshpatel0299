@@ -242,7 +242,19 @@ philosophy: >
 
 </td>
 <td width="50%">
-<!-- Empty cell for layout balance — add your next project here! -->
+
+### 🧾 &nbsp;Invoicify
+
+<a href="https://invoicify.in/">
+<img src="https://img.shields.io/badge/🔗_Live_Site-invoicify.in-58a6ff?style=for-the-badge" alt="Live"/>
+</a>
+
+**A powerful SaaS billing & invoice management platform** built for small and large-scale industries — streamlining invoicing, payments, and financial workflows end-to-end.
+
+`Next.js` `Node.js` `MongoDB` `REST API`
+
+> 🧾 Invoice generation &nbsp;•&nbsp; 💼 Multi-scale billing &nbsp;•&nbsp; 📊 Financial dashboard
+
 </td>
 </tr>
 </table>
