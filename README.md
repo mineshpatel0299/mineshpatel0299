@@ -225,6 +225,26 @@ philosophy: >
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 📝 &nbsp;NotesFloww
+
+<a href="https://notesfloww.netlify.app/">
+<img src="https://img.shields.io/badge/🔗_Live_Site-notesfloww.netlify.app-58a6ff?style=for-the-badge" alt="Live"/>
+</a>
+
+**A dynamic real-time collaborative notepad** built with live multi-user editing, persistent storage, and a clean writing experience — powered by a modern serverless stack.
+
+`Next.js` `TailwindCSS` `Neon` `Upstash` `Liveblocks`
+
+> 📝 Real-time collaboration &nbsp;•&nbsp; ⚡ Live cursors &nbsp;•&nbsp; 🗄️ Persistent notes
+
+</td>
+<td width="50%">
+<!-- Empty cell for layout balance — add your next project here! -->
+</td>
+</tr>
 </table>
 
 </div>
