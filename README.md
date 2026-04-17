@@ -257,6 +257,26 @@ philosophy: >
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🗂️ &nbsp;Dezainahub — Project Management Tool
+
+<a href="https://tt.dezainahub.com/dezainahub">
+<img src="https://img.shields.io/badge/🔗_Live_Site-tt.dezainahub.com-58a6ff?style=for-the-badge" alt="Live"/>
+</a>
+
+**A robust project management tool** built exclusively for Dezainahub — enabling teams to plan, track, and deliver design projects with clarity through intuitive task boards, milestone tracking, and team collaboration features.
+
+`React` `Node.js` `MongoDB` `REST API` `TailwindCSS`
+
+> 📋 Task & milestone tracking &nbsp;•&nbsp; 👥 Team collaboration &nbsp;•&nbsp; 📊 Project dashboards
+
+</td>
+<td width="50%">
+<!-- Reserved for future project -->
+</td>
+</tr>
 </table>
 
 </div>
